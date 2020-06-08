@@ -1,14 +1,12 @@
----
-layout: default
----
-
-<h1>CIT Minor Code Portfolio</h1>
-<p>My name is Corbin Fisher and this is my code portfolio for CIT</p>
-<p>The Conputer Information Technology minor at University of Oregon attempts
-  to prepare students to work with evolving technologies for work environments
-  that require development and management of business databases, computer networks,
-  web applications, and software systems.</p>
+<h2>CIT Minor Code Portfolio</h2>
+My name is Corbin Fisher and this is my code portfolio for CIT.
+<br>
+The Conputer Information Technology minor at University of Oregon attempts
+to prepare students to work with evolving technologies for work environments
+that require development and management of business databases, computer networks,
+web applications, and software systems.
 <h2>CIT Class Projects</h2>
+The CIT minor consists of six classes:
 <ol>
   <li><b>CIT 383 Networking Fundamentals:</b>"Network protocols, management, and security"</li>
   <li><b>CIT 382 Web App Dev II:</b>"NodeJS, React.""</li>
@@ -29,11 +27,11 @@ layout: default
     </blockquote>
   </li>
   <li><b>CIS 111 Web Programming:</b>"ES6, jQuery."
-    <ul>
-      <blockquote>
+    <blockquote>
+      <ul>
         <li><a href="https://pages.uoregon.edu/corbinf/111/">CIS 111 Projects</a></li>
-    </ul>
-    </<blockquote>
+      </ul>
+    </blockquote>
   </li>
   <li><b>CIS 110 Fluency With IT:</b>"Computer Science principles, HTML, CSS."
     <blockquote>
